@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Laravel and Tailwind
+- 👯 I’m looking to collaborate on e-commerce websites
+- ⚡ Fun fact: e to the power of i * pi is -1
